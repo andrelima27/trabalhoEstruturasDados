@@ -6,4 +6,4 @@ Andre Lucas Avila Lima
 
 Luis Fernando Souza de Araujo
 
-ministrada pelo professor: Alberto Costa Neto
+Ministrada pelo professor: Alberto Costa Neto
