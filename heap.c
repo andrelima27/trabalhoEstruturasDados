@@ -119,7 +119,7 @@ void imprimir(Heap *heap) {
 }
 
 
-void main() {
+int main() {
 
     Heap *heap = criarHeap();
     inserir(heap, 3);
@@ -132,4 +132,5 @@ void main() {
     inserir(heap, 5);
     removerMax(heap);
     imprimir(heap);
+    return 0;
 }
